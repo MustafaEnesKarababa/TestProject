@@ -13,6 +13,8 @@
 
 
             Console.WriteLine("Mesajın alındı Mustafa:D");
+
+            Console.WriteLine("branch eklenmiş değşiklik");
         }
 
         static void GithubYukle()
