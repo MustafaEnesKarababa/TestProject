@@ -10,11 +10,15 @@
             Console.WriteLine("Nazli hocanın dikkatine..");
 
             string ad = "mustafa enes karababa";
+
+
+            Console.WriteLine("Mesajın alındı Mustafa:D");
         }
 
         static void GithubYukle()
         {
 
         }
+        
     }
 }
